@@ -1,4 +1,4 @@
-# Google_maps_review_scraper_of_doctors
+# Google maps review scraper of doctors
 
 > It Scrapes data of doctors from site - [Edhacare](https://www.edhacare.com/doctors?page=1)
 
